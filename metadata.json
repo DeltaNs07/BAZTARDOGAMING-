@@ -1,0 +1,6 @@
+{
+  "name": "BAZTARDOS GAMING - Garena Delta Force Clan",
+  "description": "Sitio oficial del clan competitivo BAZTARDOS GAMING para Garena Delta Force con cuenta regresiva versus, reloj multizona, roster, historial de partidos y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
